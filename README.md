@@ -1,7 +1,7 @@
 # DoubleSmartPepperGarden
 2 Dumb Garden 5m*3m*1m
 
-Smart garden ext (real ones 
+Smart garden ext (real version) 
 	-buy pepper mix  
 	-buy 2 uno  (for humidity and sun control) 
 	-2 solar panel, 1 give 1,4v the other about 2,3v
@@ -10,7 +10,7 @@ Smart garden ext (real ones
     -check old batteries
   -buy rasbpberry pi (for communication with wifi for infos) 
 
-Smart garden inside
+Smart garden inside (Test)
 	-buy sensor temperature, soil moisture, light(LDR), waterpump 3.3-5v range
 	-light to control temperature 
 	-display for raspberry pi 
